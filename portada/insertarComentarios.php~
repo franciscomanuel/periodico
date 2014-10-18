@@ -1,0 +1,18 @@
+<?php
+	require_once('conexion.php');
+	
+	$id=$_GET['id'];
+	$nombre=$_SESSION['_NOMBRE'];
+	$comentario=$_POST['textoArea'];
+
+
+	$consultaSQL="INSERT INTO Comentarios values('$id', '$comentario', '$nombre', '$ap1')";
+	try{
+		$conex->query($consultaSQL);
+	}catch(PDOException $e){
+		echo "Consulta fallida: " . $e->getMessage();
+	}
+
+	include('index.php');
+	
+?>

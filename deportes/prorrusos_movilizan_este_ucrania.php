@@ -1,0 +1,123 @@
+	<?php
+		include 'cabecera.php';
+	?>
+
+			<section id="sec1">
+				<article id="destacadas">
+					<h6 class="tituloNoticia">CRISIS EN UCRANIA »</h6>
+
+					<h1 class="titulosNoticias">Activistas prorrusos declaran la República independiente de Donetsk</h1>
+
+					<ul class="listasNoticias">
+						<li>Yatseniuk acusa a Rusia de "desmembrar Ucrania" y "facilitar la incursión de tropas extranjeras"</li>
+						<li>Ucrania denuncia la muerte de un soldado a manos del Ejército ruso en un altercado nocturno</li>
+						<li>Toma de edificios oficiales en Donetsk</li>
+						<li>Consulta la información sobre la crisis en Ucrania</li>
+					</ul>	
+
+					<hr class="suspensivos">
+					<p class="autorNoticias">M. A. SÁNCHEZ-VALLEJO (ENVIADA ESPECIAL) | Simferópol | 7 ABR 2014 - 20:44 CET</p>	
+					<hr class="suspensivos">
+
+					<br>
+
+					<img src="../img/prorrusos_toman_edificios_ucrania.jpg" class="imagenesNoticias">
+					<footer>Activistas prorrusos toman varios edificios oficiales en Ucrania.</footer>
+					<hr class="suspensivos">
+
+					<br>
+
+					<p>Hace tiempo que las espadas están en alto contra Kiev en Donetsk y otras ciudades del cinturón rusohablante del este de Ucrania, pero el desafío se multiplicó este lunes con la declaración de independencia de la región y la convocatoria para el 11 de mayo de un referéndum como el de Crimea, no tanto de autodeterminación como de adhesión inquebrantable a Moscú. La demostración de fuerza prorrusa ha dejado sin aliento al país y al mundo, en un alarde tan coordinado y efectivo que las fuerzas de seguridad no han podido hacer nada para impedirlo.</p>
+
+					<p>Entre barricadas y retenes de encapuchados, en caóticas asambleas a voz en grito o a golpe de megáfono, miles de activistas prorrusos que el domingo ocuparon varias sedes gubernamentales Donetsk, Jarkov y Lugansk marcan desde este lunes la pauta en la crisis abierta por el desalojo del poder del presidente Víctor Yanukóvich en febrero.</p>
+
+					<p>En respuesta, Kiev avienta, como viene haciendo desde la ocupación de Crimea, el fantasma de una invasión rusa. El pulso entre ambos bandos, de resultado impredecible, tiene a Ucrania de nuevo en vilo cuando aún no se ha recuperado de la inestabilidad provocada por la revolución del Maidán y a menos de dos meses de las elecciones del 25 de mayo. El presidente en funciones del país, Alexandr Turchínov, anunció este lunes medidas antiterroristas contra los prorrusos alzados en Donetsk, Lugansk y Jarkov, la segunda ciudad del país. Tras cancelar un viaje a Lituania, el mandatario coordina los trabajos de las agencias de seguridad para hacer abortar la revuelta.</p>
+
+					<p>Según el primer ministro interino, Arseni Yatseniuk, los radicales no son más de 1.500 individuos, apoyados por los servicios secretos rusos para “facilitar la incursión de tropas extranjeras”, que se encontrarían a no más de 30 kilómetros de la frontera con Ucrania, en un nuevo capítulo de la ofensiva destinada a “desmembrar el país”.</p>
+
+					<p>Pero las imágenes que repiten las cadenas rusas de televisión —en Crimea no pueden verse los canales ucranios— muestran a varios miles de personas ocupando espacios públicos y organizando la logística necesaria para levantar otro Maidán de signo muy distinto al que que surgió hace cinco meses en Kiev. Tras Donetsk, capital de la región industrial homónima, los partidarios de Moscú se han hecho fuertes también en Lugansk, donde la policía ha cerrado el acceso a la ciudad, y Jarkov, desde donde reclaman un modelo federal para Ucrania y el uso oficial de la lengua rusa. La ocupación de sedes de la Administración no es una novedad desde que se produjo el vuelco en el poder en Kiev, pero sí el hecho que ahora haya surgido de forma generalizada y simultánea.</p>
+
+					<p>Las autoridades de la autodenominada República Popular de Donetsk han pedido ayuda militar a Rusia para resistir la presión —y presumiblemente el castigo— de Kiev hasta el 11 de mayo. “Estamos listos para luchar por nuestras ideas, pero sin vuestro apoyo, sin la ayuda del Ejército de Rusia, nos será difícil resistir ante la junta golpista de Kiev”, dijo uno de sus líderes.</p>
+
+					<p>En un conflicto en el que cada bando asegura contar con fuerzas de autodefensa e, incluso, con grupos de partisanos preparados para empuñar las armas, esta invitación a Moscú como “fuerza de interposición”, en palabras de los insurrectos, solo puede complicar las cosas.</p>
+
+					<p>Como "mitad organización militar, mitad movimiento patriótico" se presentaban hace solo una semana en Donetsk los líderes del prorruso Frente Este, Eduard Akopov, comandante, y Nikolay Solucev, comisario. "¿Que si tenemos armas? ¿Usted qué cree? No hacemos declaraciones sobre eso, que cada cual se imagine lo que quiera". Con "12.000 miembros activos" —imposible comprobar el dato—, Frente Este es uno de los más radicales, y sus líderes aseguran que, como organización revolucionaria, harán todo lo posible “para animar la revuelta”. Otro grupo prorruso, República de Donetsk, ejecutó y abanderó el domingo la toma del gobierno local en la ciudad, y, aunque defiende los medios pacíficos, su líder, Andrei Purgin, asegura que “están preparados para un escenario distinto. Nos defenderemos por cualquier medio en caso de agresión”, manifestó Purgin a este diario.</p>
+
+					<p>Entre los partidarios de las nuevas autoridades de Kiev —cuyo intento de estabilizar la región nombrando gobernadores a varios oligarcas se ha revelado insuficiente—, también hay grupos movilizados, como una célula partisana en las filas del Comité de Fuerzas Patrióticas de la región de Donetsk —donde según el último censo son ucranios el 54% de sus habitantes frente al 47% de rusos—, o incluso las autodefensas entrenadas y dirigidas por Nikolai Yakubovich, enviado especial de Kiev a la región. “De momento son solo grupos civiles, sin armas, entrenados para mantener el orden, pero en caso de agresión obviamente responderemos con medios proporcionales”, explicaba Yakuvobich hace unos días. Según la policía, los asaltantes de la sede de los servicios de seguridad en Lugansk se han hecho con el arsenal depositado en el edificio.</p>
+
+					<p>Lo cierto es que, en plena precampaña electoral, y con las heridas aún recientes del Maidán, todos chapotean en la crisis, en una guerra de nervios y propaganda que va in crescendo. El Partido de las Regiones (prorruso) de Yanukóvich sugirió este lunes que se negocie con los separatistas, la denominación de Kiev para aludir a los prorrusos del este; la exprimera ministra Yulia Timoshenko tildó de "artificiales" los focos de resistencia en el este y, mientras la Bolsa de Moscú registraba una brusca caída del 3%, el Kremlin pedía a Kiev que dejara de una vez de acusar a otros de sus propios problemas.</p>
+
+					<p>Tras el desalojo de Yanukóvich, el presidente ruso, Vladímir Putin, ha manifestado su firme intención de usar la fuerza para defender a las minorías rusas de Ucrania, el argumento que utilizó para ocupar Crimea. En una reunión con los jefes del FSB (antigua KGB), Putin advirtió ayer que Rusia nunca tolerará una situación como la de Ucrania, "con grupos financiados desde el extranjero para desestabilizar y dar un golpe de Estado", como el que a su juicio se produjo en Kiev en febrero.</p>
+	
+
+				</article>
+
+				<article id="opiniones">
+					<hr class="lineasNoticiasRelacionadas">
+					<h4 class="nRelacionadas">COMENTAR</h4>
+					<hr class="lineasNoticiasRelacionadas">
+
+					<form>
+						<textarea id="textoArea" rows="4" cols="50" maxlength="4"></textarea>
+						<br>
+						<input type="submit" value="Comentar" />
+					</form>
+
+					<br>
+
+					<article class="comentar">
+						<p>No hay ningún comentario.</p>
+					</article>
+				</article>
+			</section>
+
+			<section id="sec2">
+				<article id="relaciaonadas">
+					<hr class="lineasNoticiasRelacionadas">
+					<h4 class="nRelacionadas">NOTICIAS RELACIONADAS</h4>
+					<hr class="lineasNoticiasRelacionadas">
+					<br>
+
+					<h4 class="nRelacionadas2">En el Valle de Lecrín</h4>
+					<aside class="relacionadas2">
+						<ul>
+							<li><a href="../deportes/kerry_advierte_consecuencia_ucrania.php">Kerry advierte a Lavrov de los costes de desestabilizar Ucrania</a></li>
+							<li><a href="../deportes/agujeros_negros_antigua_urss.php">Los agujeros negros de la antigua URSS, por PILAR BONET</a></li>
+							<li><a href="../deportes/OTAN_avisa_a_rusia.php">La OTAN avisa de que un paso más supone "una escalada seria"</a></li>
+						</ul>
+					</aside>
+
+					<h4 class="nRelacionadas2">En otros medios</h4>
+					<aside class="relacionadas2">
+						<ul>
+							<li><a href="http://www.lavanguardia.com/">lavanguardia.es</a></li>
+							<li><a href="http://www.abc.es/">abc.es</a></li>
+							<li><a href="http://www.rtve.es/">rtve.es</a></li>
+							<li><a href="http://www.elmundo.es/">elmundo.es</a></li>
+							<li><a href="http://www.20minutos.es/">20minutos.es</a></li>
+						</ul>
+					</aside>
+
+					<h4 class="nRelacionadas2">Y además</h4>
+					<aside class="relacionadas2">
+						<ul>
+							<li><a href="#">El fin de Windows XP aúpa las ventas de PC de sobremesa en Europa (Dealerworld.es)</a></li>
+							<li><a href="#">Los gastos no deducibles  (Captio)</a></li>
+							<li><a href="#">La censura planea sobre la regulación de Internet en México (El País)</a></li>
+							<li><a href="#">Aguirre: la ciudadanía "no quiere políticos prepotentes en coches… (Expansión)</a></li>
+						</ul>
+					</aside>
+
+
+				</article>
+				
+				<article id="publicitarios">
+					<a href="https://www.apple.com/es/"><img src="../img/HomerApple.jpg"></a>
+					<a href="https://www.nestle.es/kitkat/aspx/index.aspx"><img src="../img/kitkat.jpg"></a>
+					<a href="http://www.nike.com/es/es_es/"><img src="../img/nike.jpg" id="imgNike"></a>
+				</article>
+			</section>
+
+			<?php
+				include 'pie.php';
+			?>

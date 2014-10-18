@@ -1,0 +1,92 @@
+<!doctype html>
+<html>
+
+<head>
+	<meta name="viewport" content="width=device-width">
+	<meta charset="utf-8">
+	<title>Periódico</title>
+	<link rel="stylesheet" type="text/css" href="../css/estilo.css">
+	<script type="text/javascript" src="../js/javascript.js"></script> 
+</head>
+
+<?php
+	require_once('../conexion.php');
+	include('../globales.php');
+?>
+
+<body>
+
+
+	<div id="contenedor">
+
+		<section id="anuncioArriba"> 
+			<a href="http://www.movistar.es/"><img src="../img/movistar.jpg" id="publiArriba"></a>
+		</section>
+
+		<section id="anuncioIzquierda">
+			<a href="http://www.playaway.com/"><img src="../img/publiIzquierda.jpg" id="publiIzqDrch"></a>
+		</section>
+
+		<section id="anuncioDerecha">
+			<a href="http://www.cocacola.es/"><img src="../img/coca_cola3.jpg" id="publiIzqDrch"></a>
+		</section>
+
+		<section id="contenedorPeriodico">
+			<header id="nombrePeriodico">
+    			<h1><a href="../index.php">El Valle de Lecrín Digital</a></h1>
+			</header>
+			
+			<?php
+				if(@$_SESSION['_TIPO']=="usuario"){
+					echo '<header id="botonLogeo"><p><br>Bienvenido:<br>'.$_SESSION['_NOMBRE'] . '</p></header>';
+					echo '<header id="botonRegistrarse"><br><br><a href="../logout.php">Cerrar sesion</a></header>';
+				}else if(@$_SESSION['_TIPO']=="administrador"){
+					echo '<header id="botonLogeo"><p><br>Bienvenido administrador</p></header>';
+					echo '<header id="botonRegistrarse"><br><br><a href="../logout.php">Cerrar sesion</a></header>';
+				}else {
+					echo '<header id="botonLogeo"><input type="submit" value="Login" onclick="mostrar();"></header>';
+					echo '<header id="botonRegistrarse"><input type="submit" value="Registrarse" onclick="registrarse2();"></header>';
+				}
+			?>
+			<!--<header id="botonLogeo">
+				<input type="submit" value="Login" onclick="mostrar();">
+			</header>
+			<header id="botonRegistrarse">
+				<input type="submit" value="Registrarse" onclick="registrarse2();">
+			</header>-->
+
+			<header id="subseccion">
+				<h2><a href="local.php">Local</a></h2>
+			</header>
+
+			<nav id="menuNavegacion2">
+				<ul>
+					<li><a href="../nacional/nacional.php">Nacional</a></li>
+					<li><a href="../internacional/internacional.php">Internacional</a></li>
+					<li><a href="../local/local.php">Local</a></li>
+					<li><a href="../cultural/cultura.php">Cultura</a></li>
+					<li><a href="../deportes/deportes.php">Deportes</a></li>
+					<li><a href="../TV/TV.php">Gente y TV</a></li>
+					<?php
+						if(@$_SESSION['_TIPO']=="administrador"){
+							echo '<li><a href="../adminsitrador/administrador.php">Administrador</a></li>';
+						}
+					?>
+				</ul>
+			</nav>
+
+			<section id='ventana-flotante'>
+			   <section id='contenedor2'>
+			       <section class='contenido'>
+			       		<form action="../validar_usuario.php" method="post" onsubmit="return validarUsuario(this);">
+			       			<label for="usuario">Usuario</label>
+			       			<input type="text" name="usuario"><p class="mensajes" id="mensaje20">Este campo es obligatorio.</p><p class="mensajes">El usuario no existe</p><br>
+			       			<label for="contrasenia">Contraseña</label>
+			       			<input type="password" name="contrasenia"><p class="mensajes" id="mensaje21">Este campo es obligatorio.</p><p class="mensajes">La contraseña no es correcta</p>
+			       			<br><br>
+			       			<input type="submit" value="Enviar">
+			       			<input type="submit" value="Cancelar">
+			       		</form>
+			       </section>
+			   </section>
+			</section>

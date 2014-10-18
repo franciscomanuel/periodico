@@ -1,0 +1,120 @@
+	<?php
+		include 'cabecera.php';
+	?>
+
+			<section id="sec1">
+				<article id="destacadas">
+
+					<h1 class="titulosNoticias">Moscú advierte de que defenderá a los rusos del este de Ucrania</h1>
+
+					<ul class="listasNoticias">
+						<li>El ministro Lavrov pone como ejemplo la guerra con Georgia por Osetia del Sur en 2008</li>
+					</ul>	
+
+					<hr class="suspensivos">
+					<p class="autorNoticias">PILAR BONET | Donetsk | 23 ABR 2014 - 20:52 CET</p>	
+					<hr class="suspensivos">
+
+					<br>
+
+					<img src="../img/miliciano_prorruso.jpg" class="imagenesNoticias">
+					<footer>Un miliciano prorruso, este miércoles en el centro de Sloviansk. </footer>
+					<hr class="suspensivos">
+
+					<br>	
+
+					<p>Rusia no dejará abandonados a los rusos de Ucrania y reaccionará si son agredidos. “Si somos atacados, desde luego responderemos. Si nuestros intereses, nuestros legítimos intereses, los intereses de los rusos son atacados directamente, como lo fueron en Osetia del Sur, por ejemplo, no veo otra salida que responder de acuerdo con el derecho internacional”, dijo este miércoles el ministro de Exteriores, Serguéi Lavrov, en una entrevista con el canal de televisión gubernamental RT. “El ataque a los ciudadanos rusos es un ataque contra la Federación Rusa”, declaró el jefe de la diplomacia del Kremlin.</p>
+
+					<p>En sus advertencias, Lavrov se refirió a la breve guerra entre Georgia y Rusia en agosto de 2008, cuando Moscú envió sus tropas a Osetia del Sur para defender a los habitantes de aquel territorio después de que el entonces líder de Georgia, Mijail Saakashvili, emprendiera una incursión militar para someterlo y enviara los tanques contra civiles a Tsjinvali, su capital. Osetia del Sur, uno de los territorios problemáticos legados por la URSS, se había negado a subordinarse a Georgia antes incluso de que se desintegrara la Unión Soviética en 1991. Después de la guerra de agosto de 2008, Rusia reconoció a Osetia del Sur (junto con Abjazia) como Estado, aunque el grueso de la comunidad internacional sigue considerando formalmente que ambos territorios son parte de Georgia.</p>
+
+					<p>La situación de Donbás (la cuenca del Don, que incluye a las provincias de Donetsk y Lugansk) es distinta a la de Osetia del Sur. Donbás nunca ha sido cuestionado como parte de Ucrania y los rusos (“ruski”, de cultura y lengua rusa) que aquí viven tienen mayoritariamente la ciudadanía ucraniana, a diferencia de Osetia del Sur, donde Moscú repartió profusamente pasaportes durante varios años entre la población local.</p>
+
+					<p>Aunque la comparación de Lavrov es imprecisa y las analogías, inexactas, sus palabras parecen una advertencia del Kremlin para indicar a Occidente que no dejará abandonados a los rusos y que, si es preciso, actuará para defenderlos. También parece un mensaje de Moscú a los ciudadanos del Este de Ucrania y especialmente a los activistas federalistas y separatistas que han convocado un referéndum de autodeterminación para el 11 de mayo. En cierto modo, es también una réplica con signo inverso del mensaje de apoyo que el vicepresidente de EEUU, Joe Biden, dio la víspera en Kiev a las autoridades provisionales de Ucrania y a los ciudadanos que las apoyan.</p>
+
+					<p>Los activistas de la denominada República Popular de Donetsk (RPD) están preparando la consulta que, según las últimas informaciones, hará referencia a la “independencia” de la provincia, pero no sobre su incorporación a Rusia o a la Unión Aduanera, otras de las posibilidades que se habían considerado y que aparentemente se han dejado para más adelante. Las banderas rusas son numerosas en los edificios y puestos de control de la RPD, pero esta corresponsal tiene la impresión de que han sido eclipsadas en parte por las enseñas locales (la de la RPD y la bandera minera).</p>
+
+					<p>“Aún no nos hemos ganado la ayuda de Moscú. El Kremlin decidirá después del referéndum si nos reconoce y nos apoya. Si obtenemos una mayoría y Kiev se resigna a perder la región, entonces no habrá conflicto, pero si Kiev no se resigna, Putin no puede dejarnos solos”, manifestaron fuentes vinculadas a las Fuerzas de Intervención Especial (las antiguas Berkut) con responsabilidades de defensa en la RPD.</p>
+
+					<p>“Pero tanto si nos ayuda como si no lo hace, no retrocederemos y estamos dispuestos a morir antes de someternos a un régimen ilegítimo que no tiene ninguna intención de respetar nuestros intereses”, manifestaron. Las fuentes consideraron que uno de los mayores peligros para su causa son las “provocaciones” destinadas a “crear el instinto de venganza y las ganas de agredir” entre los militares ucranianos, reticentes a “atacar a civiles” en el marco de una “operación contraterrorista” en la que, “según la ley, sólo están autorizados a tener funciones auxiliares”, señalaron las fuentes. El estado de excepción, que las autoridades no han declarado, exigiría la aprobación del Parlamento, recordaron las fuentes.</p>
+
+					<p>Las autoridades provisionales de Ucrania están intentando impedir que se celebre el referéndum y han bloqueado el acceso a las listas de electores, al igual que hicieron en Crimea para impedir la consulta secesionista del 16 de marzo.</p>
+
+					<p>De los acuerdos del 17 de abril suscritos por Rusia, EEUU, la UE y Ucrania en Ginebra no parece quedar ya ni la sombra. Lavrov calificó de “delictivo” el uso de la fuerza contra los ciudadanos ucranianos y la orden dada el martes por el presidente en funciones Olexandr Turchínov de reanudar la llamada “operación contraterrorista”. “Turchínov declaró casi un estado de excepción y ordenó al ejército disparar contra la gente”, manifestó.</p>
+
+					<p>Lavrov negó que haya presencia militar rusa en el territorio ucraniano, pero admitió que los contingentes militares se habían incrementado en las zonas fronterizas de Rusia, aunque en el marco de ejercicios anunciados previamente y del derecho internacional. “Hay ciudadanos rusos a título particular, incluidos cosacos del sur de Rusia, pero no hay tropas rusas”, señalaron las fuentes en Donetsk.</p>
+
+					<p>Ironizando sobre la visita de Arseni Yatseniuk al Vaticano el miércoles, Lavrov dijo que el primer ministro de Ucrania haría mejor visitando el sur del país y reuniéndose allí con los protagonistas de la protestas. El ministro ruso no escatimó tampoco acusaciones contra EEUU y consideró “muy significativo” que la reanudación de la “operación contraterrorista” coincidiera con la visita a Kiev del vicepresidente Joe Biden ya que el lanzamiento de la misma se había producido inmediatamente después de que el jefe de la CIA, John Brennan visitara la capital de Ucrania. Según Lavrov las “soluciones precocinadas” de Washington no pueden solucionar una crisis que EEUU no entiende. En opinión del ministro, Washington debería desmarcarse con una declaración pública de los partidos Libertad y el Sector de Derechas que Rusia considera “extremistas, chauvinistas y terroristas. “En opinión de EE UU, estos partidos forman parte de la normalidad política y esto no es verdad”, remachó.</p>
+
+					<p>Por otra parte, el servicio de Guardafronteras de Ucrania informó a la agencia Liga que se han cavado 600 kilómetros de trincheras contra tanques y que las han reforzado con construcciones de ingeniería.</p>
+
+				</article>
+
+				<article id="opiniones">
+					<hr class="lineasNoticiasRelacionadas">
+					<h4 class="nRelacionadas">COMENTAR</h4>
+					<hr class="lineasNoticiasRelacionadas">
+
+					<form>
+						<textarea id="textoArea" rows="4" cols="50" maxlength="4"></textarea>
+						<br>
+						<input type="submit" value="Comentar" />
+					</form>
+
+					<br>
+
+					<article class="comentar">
+						<p>No hay ningún comentario.</p>
+					</article>
+				</article>
+			</section>
+
+			<section id="sec2">
+				<article id="relaciaonadas">
+					<hr class="lineasNoticiasRelacionadas">
+					<h4 class="nRelacionadas">NOTICIAS RELACIONADAS</h4>
+					<hr class="lineasNoticiasRelacionadas">
+					<br>
+
+					<h4 class="nRelacionadas2">En el Valle de Lecrín</h4>
+					<aside class="relacionadas2">
+						<ul>
+							<li><a href="../internacional/guindos_avanza_economia_avanzara.php">Guindos avanza un crecimieto del 1,5% en 2014 y 2015</a></li>
+							<li><a href="../internacional/bruselas_certifica_deficil_español.php">Bruselas avala que el déficit de 2013 equivale al 7,1% del PIB</a></li>
+							<li><a href="../internacional/guindos_bruselas_venta_novagalicia.php">Guindos confía en que Bruselas no retrase la venta de Novagalicia</a></li>
+						</ul>
+					</aside>
+
+					<h4 class="nRelacionadas2">En otros medios</h4>
+					<aside class="relacionadas2">
+						<ul>
+							<li><a href="http://www.lavanguardia.com/">lavanguardia.es</a></li>
+							<li><a href="http://www.abc.es/">abc.es</a></li>
+							<li><a href="http://www.rtve.es/">rtve.es</a></li>
+							<li><a href="http://www.elmundo.es/">elmundo.es</a></li>
+							<li><a href="http://www.20minutos.es/">20minutos.es</a></li>
+						</ul>
+					</aside>
+
+					<h4 class="nRelacionadas2">Y además</h4>
+					<aside class="relacionadas2">
+						<ul>
+							<li><a href="#">El fin de Windows XP aúpa las ventas de PC de sobremesa en Europa (Dealerworld.es)</a></li>
+							<li><a href="#">Los gastos no deducibles  (Captio)</a></li>
+							<li><a href="#">La censura planea sobre la regulación de Internet en México (El País)</a></li>
+							<li><a href="#">Aguirre: la ciudadanía "no quiere políticos prepotentes en coches… (Expansión)</a></li>
+						</ul>
+					</aside>
+
+
+				</article>
+				
+				<article id="publicitarios">
+					<a href="https://www.apple.com/es/"><img src="../img/HomerApple.jpg"></a>
+					<a href="https://www.nestle.es/kitkat/aspx/index.aspx"><img src="../img/kitkat.jpg"></a>
+					<a href="http://www.nike.com/es/es_es/"><img src="../img/nike.jpg" id="imgNike"></a>
+				</article>
+			</section>
+
+			<?php
+				include 'pie.php';
+			?>

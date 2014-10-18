@@ -1,0 +1,616 @@
+body{
+	top: 0px;
+	margin: 0px;	/*Le quitamos el margen al body*/
+	/*background-color: rgb(230, 230, 230);*/
+}
+
+a{
+	text-decoration: none;	/*Quita las líneas de debajo de los enlaces*/
+}
+
+.mensajes{
+	display: inline-block;
+	position: absolute;
+	visibility: hidden;
+}
+
+/*Contenedor principal que abarca todo el periodico*/
+#contenedor{
+	width: 1160px;
+	margin: auto;	/*Automaticamente hace que se ponga al centro*/	
+}
+
+#existe{
+	display:inline-block;
+	position: absolute;
+	color: #FF0000;
+}
+
+
+/*Contenedores con los anuncios*/
+#anuncioArriba{
+	height: 5em;
+}
+#publiArriba{
+	width: 100%;
+	height: 90px;
+}
+
+#anuncioDerecha{
+	float: right;
+}
+
+#anuncioIzquierda{
+	float: left;
+}
+
+#publiIzqDrch{
+	width: 100px;
+	height: 800px;
+}
+
+section#anuncioDerecha, #anuncioIzquierda{
+	width: 100px;
+	height: 700px;
+	/*background-color: rgb(140, 140, 140);*/
+}
+
+
+#anuncioArriba p{
+	margin: 0px;
+}
+
+/*Contenedor que contiene las noticias, secciones y atriculos del periodico*/
+#contenedorPeriodico{
+	width: 960px;
+	margin: auto;
+	/*background-color: #C2DCC1;*/
+}
+
+#noticiaDestacada{
+	margin-right: 10px;
+	float: left;
+	border: none;
+}
+
+#noticiaDestacada article{
+	border: none;
+}
+
+#noticiaDestacada h4{
+	text-align: center;
+}
+
+header{
+	font-family: impact, sans-serif;	/*Cambiamos el tipo de letra al titulo*/
+	top: 0px;
+	height: 7em;
+	background-color: #C2DCC1;
+}
+
+header h2{
+	margin: 0px;
+}
+
+#ventana-flotante {
+width: 550px;  /* Ancho de la ventana */
+height: 200px;  /* Alto de la ventana */
+background: #ceffad;  /* Color de fondo */
+position: fixed;
+top: 200px;
+left: 50%;
+margin-left: -300px;
+border: 1px solid #adffad;  /* Borde de la ventana */
+box-shadow: 0 5px 25px rgba(0,0,0,.1);  /* Sombra */
+z-index:999;
+visibility: hidden;
+}
+#ventana-flotante #contenedor2 {
+padding: 25px 10px 10px 10px;
+}
+/*#ventana-flotante .cerrar {
+float: right;
+border-bottom: 1px solid #bbb;
+border-left: 1px solid #bbb;
+color: #999;
+background: white;
+line-height: 17px;
+text-decoration: none;
+padding: 0px 14px;
+font-family: Arial;
+border-radius: 0 0 0 5px;
+box-shadow: -1px 1px white;
+font-size: 18px;
+-webkit-transition: .3s;
+-moz-transition: .3s;
+-o-transition: .3s;
+-ms-transition: .3s;
+}
+#ventana-flotante .cerrar:hover {
+background: #ff6868;
+color: white;
+text-decoration: none;
+text-shadow: -1px -1px red;
+border-bottom: 1px solid red;
+border-left: 1px solid red;
+}*/
+#ventana-flotante #contenedor2 .contenido {
+padding: 15px;
+box-shadow: inset 1px 1px white;
+background: #deffc4;  /* Fondo del mensaje */
+border: 1px solid #9eff9e;  /* Borde del mensaje */
+font-size: 20px;  /* Tamaño del texto del mensaje */
+color: #555;  /* Color del texto del mensaje */
+text-shadow: 1px 1px white;
+margin: 0 auto;
+border-radius: 4px;
+}
+/*.oculto {-webkit-transition:1s;-moz-transition:1s;-o-transition:1s;-ms-transition:1s;opacity:0;-ms-opacity:0;-moz-opacity:0;visibility:hidden;}*/
+
+header#nombrePeriodico{
+	float: left;
+	width: 700px;
+}
+
+header#botonLogeo, #botonRegistrarse{
+	float: left;
+	width: 130px;
+}
+
+#nombrePeriodico, #botonLogeo, #botonRegistrarse{
+	/*background-color: rgb(64, 224, 208);*/
+	border-top: 2px solid darkgreen;
+	border-bottom: 2px solid darkgreen;
+}
+
+
+
+#nombrePeriodico h1{
+	margin: 0px;	/*Le quitamos el margen superior*/
+	margin-left: 20px;	/*Le ponemos un poco de margen a la derecha al titulo*/
+	padding-top: 25px;
+	font-size:3em;
+	text-shadow: 1px 1px 0 green, -1px -1px green, 1px -1px green, -1px 1px green , 0 1px green, 1px 0 green, -1px 0 green, 0 -1px green;
+}
+
+#botonLogeo input{
+	margin: 0px;	/*Le quitamos el margen superior*/
+	margin-left: 20px;	/*Le ponemos un poco de margen a la derecha al titulo*/
+	margin-top: 40px;
+	padding-right: 40px;
+}
+
+#botonRegistrarse input{
+	margin: 0px;	/*Le quitamos el margen superior*/
+	margin-left: -4px;	/*Le ponemos un poco de margen a la derecha al titulo*/
+	margin-top: 40px;
+}
+
+
+
+#nombrePeriodico a{
+	text-decoration: none;
+	color: #003300;
+}
+
+#subseccion a{
+	text-decoration: none;
+	color: #003300;
+}
+
+#subseccion{
+	height: 3em;
+	border-bottom: 2px solid darkgreen;
+	color: #003300;
+}
+
+#subseccion h2{
+	margin: 0px;	/*Le quitamos el margen superior*/
+	margin-left: 20px;	/*Le ponemos un poco de margen a la derecha al titulo*/
+	padding-top: 12px;
+	text-shadow: 1px 1px 0 green, -1px -1px green, 1px -1px green, -1px 1px green , 0 1px green, 1px 0 green, -1px 0 green, 0 -1px green;
+}
+
+#menuNavegacion {
+	text-align: center;
+	min-width: 960px;	/*Para darle un ancho al menu*/
+}
+
+#menuNavegacion2 {
+	min-width: 960px;	/*Para darle un ancho al menu*/
+	margin-top: 100px;
+}
+
+#menuNavegacion ul{
+	list-style: none;	/*Quitamos los puntos de la lista*/
+	display: inline-block;
+}
+
+#menuNavegacion li{
+	width: 130px;	/*Para disminuir las opciones alargadas*/
+	float: left;
+	margin: auto;
+}
+
+
+
+#menuNavegacion a{
+	background-color: rgb(40, 40, 40);	/*Que los botones tenga un color oscuro de fondo*/
+	color: rgb(255, 255, 255);	/*Cambiamos el color de las letras*/
+	padding: 10px;	/*Agrandamos los botones*/
+	display: block;	/*Para separar los elementos del menú, pero nos dejan las opciones alargadas*/
+	border-bottom: 1px solid rgb(80, 80, 80);	/*Añade un borde a los botones*/
+}
+
+/*Para que cambie el color de los botones cuando pasamos por ellos*/
+#menuNavegacion a:hover{
+	background-color: rgb(70, 70, 100);
+}
+
+.admin{
+	display:inline-block;
+}
+
+#menuNavegacion2 ul{
+	list-style: none;	/*Quitamos los puntos de la lista*/
+	display: inline-block;
+}
+
+#menuNavegacion2 li{
+	width: 130px;	/*Para disminuir las opciones alargadas*/
+	float: left;
+	margin: auto;
+}
+
+#menuNavegacion2 a{
+	background-color: rgb(40, 40, 40);	/*Que los botones tenga un color oscuro de fondo*/
+	color: rgb(255, 255, 255);	/*Cambiamos el color de las letras*/
+	padding: 10px;	/*Agrandamos los botones*/
+	display: block;	/*Para separar los elementos del menú, pero nos dejan las opciones alargadas*/
+	border-bottom: 1px solid rgb(80, 80, 80);	/*Añade un borde a los botones*/
+}
+
+/*Para que cambie el color de los botones cuando pasamos por ellos*/
+#menuNavegacion2 a:hover{
+	background-color: rgb(70, 70, 100);
+}
+
+section#noticias1, #noticias2, #noticias3{
+	float: left;
+	/*display: inline-block;*/
+	width: 320px;
+}
+
+#formu{
+	margin: .4em 0;
+}
+
+section label{
+	width: 25%;
+  	float: left;
+}
+
+#noticias2{
+	padding: 0px;
+}
+
+article{
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border: 1px solid grey;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.titulo a:hover{
+	border-bottom: thin dashed;
+}
+
+.tituloNoticia{
+	margin: 0px;
+	background-color: grey;
+}
+
+article img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 280px;
+	height: 150px;
+}
+
+article#imagenImportante, #noticiaImportante{
+	margin-top: 10px;
+	float: left;
+	width: 430px;
+}
+
+article#noticiaImportante h1{
+	margin: 5px;
+	font-size: 18px;
+}
+
+article p{
+	margin-top: 0px;
+}
+
+article h1 a{
+	color: black;
+}
+
+article footer strong{
+	color: black;
+}
+
+article footer{
+	color: rgb(100, 100, 100);
+	font-size: 12px;
+	text-align: center;
+}
+
+.autor{
+	color: grey;
+	font-size:10px;
+}
+
+.autorNoticias{
+	color: black;
+	font-size: 13px;
+	margin-bottom: 0px;
+}
+
+/*Añade margen izquierdo al a los articulos del tercer section*/
+section#noticias3 article{
+	margin-right: 10px;
+}
+
+#formulario{
+	margin-left: 250px;
+}
+
+#formulario article{
+	margin-right: 10px;
+	border: none;
+}
+
+.relacionadas{
+	background-color: rgb(200, 200, 200);
+}
+
+.relacionadas2{
+	background-color: rgb(200, 200, 200);
+	overflow:scroll; height:150px;
+}
+
+.relacionadas a{
+	color: blue;
+}
+
+.relacionadas2 a{
+	color: blue;
+}
+
+.colRelacionada2 ul li a{
+	color:blue;
+	border: 0px;
+}
+
+.colRelacionada2 a:hover{
+	color: black;
+}
+
+.relacionadas a:hover{
+	color: black;
+}
+
+.relacionadas ul li{
+	list-style-type: square;
+	margin: 2px 1px 2px 19px;
+	margin-left: 0px;
+	font-size:14px;
+}
+
+.relacionadas2 ul li{
+	list-style-type: square;
+	margin: 2px 1px 2px 19px;
+	margin-left: 0px;
+	font-size:14px;
+}
+
+.colRelacionada1{
+	display: inline-block;
+	width: 100px;
+	border: none;
+	margin: 0px;
+	font-size: 12px;
+}
+
+.colRelacionada2{
+	display: inline-block;
+	width: 200px;
+	border: none;
+	margin: 0px;
+	font-size: 15px;
+}
+
+
+.ultimasNoticias{
+	border: none;
+}
+
+.colRelacionadas{
+	border: none;
+	background-color: #B0B0B0;
+	display: inline-block;
+	width: 137px;
+	margin: 0px;
+	padding: 0px;
+
+}
+
+.colRelacionadas2{
+	border: none;
+	background-color: #B0B0B0;
+	display: inline-block;
+	width: 420px;
+	margin: 0px;
+	padding: 0px;
+
+}
+
+
+article#colRelacionada1, #colRelacionada2{
+	margin-top: 10px;
+}
+
+.suspensivos{
+	border: 1px dashed grey; height: 0; width: 100%;
+	margin: 0px;
+}
+
+#sec1{
+	float: left;
+	width: 610px;
+}
+
+#sec2{
+	float: left;
+	width: 350px;
+}
+
+#relaciaonadas, #publicitarios{
+	margin-right: 10px;
+}
+
+#publicitarios img{
+	margin-left: -10px;
+	width: 330px;
+}
+
+#imgImportantes1{
+	width: 400px;
+	height: 253px;
+}
+
+#imgImportantes2{
+	width: 300px;
+	height: 157px;
+}
+
+#imgImportantes3{
+	width: 300px;
+	height: 157px;
+}
+
+#publicitariosPortada img{
+	margin-left: -10px;
+	width: 300px;
+}
+
+#imgNike{
+	height: 400px;
+}
+
+.pie{
+	/*background-color: #C2DCC1;*/
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+
+.pie article{
+	margin-right: 10px;
+}
+
+.pie a{
+	color: blue;
+}
+
+.medianas{
+	width: 180px;
+	height: 100px;
+}
+
+.grandes{
+	width: 280px;
+	height: 150px;
+}
+
+.enanas{
+	margin: 5px;
+	width: 50px;
+	height: 50px;
+}
+
+.listasNoticias{
+	font-size:14px;
+}
+
+.titulosNoticias{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 30px;
+}
+
+.imagenesNoticias{
+	width: 480px;
+	height: 300px;
+}
+
+.imagenesNoticias2{
+	width: 400px;
+	height: 500px;
+}
+
+.imagenesNoticias3{
+	width: 580px;
+	height: 500px;
+}
+
+.alargadas{
+	width: 400px;
+	height: 670px;
+}
+
+.lineasNoticiasRelacionadas{
+	border: 0 none #000000;
+	border-top: 1px solid #0000FF;
+	height: 1px;
+	margin: 5px 0;
+	display: block;
+	clear: both;
+}
+
+.nRelacionadas{
+	margin: 0px;
+	color: #0000FF;
+}
+
+.nRelacionadas2{
+	margin: 0px;
+}
+
+.comentar{
+	
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 100px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #FFEFD5;
+	border: none;
+	padding-bottom: 500px;
+	overflow:scroll; height:150px;
+}
+
+	
+
+
+
+
+
+
+
+
+
+

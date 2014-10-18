@@ -1,0 +1,152 @@
+	<?php
+		include 'cabecera.php';
+		$id=$_GET['id'];
+	?>
+
+			<section id="sec1">
+				<article id="destacadas">
+
+					<h6 class="tituloNoticia">VIDA & ARTES »</h6>
+
+					<h1 class="titulosNoticias">Tu secuencia de ADN en un solo día y por el precio de un iPad</h1>
+
+					<ul class="listasNoticias">
+						<li>El abaratamiento de la secuenciación genética acorta los plazos para la medicina personalizada</li>
+						<li>La investigación sobre el cáncer es uno de los grandes beneficiados</li>
+						<li>Tratar cada tumor como una enfermedad única, por A. LLUCH y A. CERVANTES</li>
+						<li>El bajo coste llega a la secuenciación del genoma humano</li>
+					</ul>	
+
+					<hr class="suspensivos">
+					<p class="autorNoticias">JAIME PRATS | 4 FEB 2012 - 00:28 CET</p>	
+					<hr class="suspensivos">
+
+					<br>
+
+					<img src="../img/analisis_genetico.jpg" class="imagenesNoticias">
+					<footer>El análisis genético permite un tratamiento específico del cáncer para cada persona.</footer>
+					<hr class="suspensivos">
+
+					<br>
+
+					<p>La medicina personalizada será una realidad el día en que al llegar un paciente oncológico al hospital, además de una biopsia y una resonancia (o en lugar de ello), se le practique de forma rutinaria un análisis genético para administrarle un tratamiento basado en las características específicas de su tumor.</p>
+
+					<p>Ese día se acerca a toda velocidad. Una de las claves para que la medicina del futuro abandone el territorio de la ciencia ficción pasa por que la secuenciación del ADN sea rápida y barata. Y esto es lo que está sucediendo en estos momentos.</p>
+
+					<p>Hace tres semanas, Life Technologies, una empresa con sede en California, anunció el lanzamiento de un nuevo secuenciador de ADN, el Ion Proton, capaz de describir un genoma humano entero (deletrear los 3.000 millones de bases —ACGT— de la doble hélice) en un día y por tan solo 1.000 dólares (765 euros, menos que el iPad más caro). Detrás de esta presentación, que repitió la semana pasada en Davos con ocasión de la celebración del Foro Económico Mundial, se encuentra Jonathan M. Rothberg, todo un personaje, a quien la prensa estadounidense ha definido en alguna ocasión como el Steve Jobs de la biotecnología por sus esfuerzos en convertir los secuenciadores de ADN en un producto de uso habitual en hospitales y clínicas. Pero también por su habilidad en el control de los mecanismos de la publicidad.</p>
+
+					<p>Rothberg es un viejo conocido del sector. En 1997, entonces al frente de 454 Life Sciences, ya demostró sus habilidades para darse a conocer cuando anunció que su empresa había conseguido realizar un mapa genético individual de una persona muy particular. Nada menos que del codescubridor de la doble hélice, James Watson. Era la segunda vez que se realizaba, después de la secuenciación del ADN de Craig Venter, otro ilustre de la investigación genética. El coste, por entonces considerado muy barato, fue de un millón de dólares.</p>
+
+					<p>Desde luego, resultaba un avance comparado con el Proyecto Genoma Humano, en el que se invirtieron 13 años y 2.700 millones de dólares (2.065 millones de euros) para lograr, en 2003, el mapa genético del hombre. Pero hay que tener en cuenta que este proyecto partió de cero y la tecnología empleada era muy rudimentaria comparada con la actual.</p>
+
+					<p>Entonces, se estimó que en 2009 se podría secuenciar el ADN de una persona por 100.000 dólares (76.500 euros) y que no se llegaría a la cifra de 1.000 dólares hasta el año 2014. La espectacular reducción de los costes que se ha producido en los últimos años ha tirado por la borda todos estos cálculos.</p>	
+
+					<p>“En solo dos años, la secuenciación ha bajado de forma brutal, al pasar de 100.000 dólares a entre 3.000 y 5.000 (2.300 y 3.800 euros) en la actualidad”, apunta Xavier Estivill, coordinador del programa Genes y Enfermedad, del Centre de Regulació Genómica de Barcelona. De forma paralela, la evolución de los reactivos que se emplean, así como el desarrollo de la bioinformática, también han permitido que se acelere la velocidad de análisis.</p>
+
+					<p>El último anuncio de Rothberg es una nueva vuelta de tuerca a esta caída de precios. El Ion Proton, “basado en la última generación de tecnología en semiconductores”, según Life Technologies, cuesta 149.000 dólares (114.000 euros) y saldrá a mitad de 2012, aunque hasta final de año no saldrá al mercado el procesador que le permitirá secuenciar un genoma entero en 24 horas.</p>
+
+					<p>La cifra de 1.000 dólares por estudio tiene especial relevancia. Más allá de adelantar en dos años las previsiones iniciales del proyecto genoma, es una cantidad que se sitúa al mismo precio de pruebas actuales de alta tecnología, como por ejemplo un estudio de resonancia magnética. Y que, en teoría, podría abrir las puertas a su uso como una herramienta rutinaria de diagnóstico más en los hospitales.</p>
+
+					<p>Genetistas como Estevill o Manuel Perez-Alonso, director del Instituto de Medicina Genómica de Valencia, coinciden en destacar el avance que supone esta tecnología, aunque se muestran prudentes. De un lado, porque secuenciar está empezando a ser muy barato, pero analizar el alud de información que arrojan estas máquinas sigue siendo caro. “Requiere un elevado esfuerzo de personal ultraespecializado”, añade Miguel Urioste, responsable de genética familiar del Centro Nacional de Investigaciones Oncológicas.</p>	
+
+					<p>Por otro, porque la mercadotecnia ha entrado fuerte en el sector: “Rothberg está de road show [de gira], comenta Pérez Alonso”. Estivill recuerda otros lanzamientos espectaculares, como los de las empresas Pacific Biosciences o Helicos, que resultaron fallidos y no alcanzaron los resultados esperados.</p>
+
+					<p>Muy distinta es la situación de la empresa líder del sector de secuenciación de ADN: Illumina. “Es la tecnología más sólida, y está totalmente contrastada”, comenta Estivill. Esta firma no se ha quedado atrás después del anuncio de su competidora en la carrera abierta por ofrecer los análisis de ADN más rápidos y baratos.</p>
+
+					<p>También para la segunda mitad del año, está previsto su nuevo equipo, el HiSeq2500, que como el Ion Proton, permitirá conocer un genoma entero en un día. Es sensiblemente más caro que su competidor (690.000 dólares, 520.000 euros). Pero esta compañía cuenta con una importante ventaja. Permite actualizar su anterior secuenciador, con el que trabajan un buen número de centros de investigación, por un precio relativamente bajo. Y es probable que rebaje los costes actuales por estudio y se sitúe también en torno a los 1.000 dólares, como apunta Estivill.</p>
+
+					<p>Tras un primer acercamiento amistoso, la gigante suiza Roche lanzó la semana pasada una oferta pública de adquisición hostil de esta firma con sede en San Diego (California) de 2.100 empleados. La operación está valorada en 5.700 millones de dólares (4.400 millones de euros).</p>		
+
+					<p>De momento, Illumina está defendiéndose de esta operación, que aún está en marcha. Y que demuestra la relevancia estratégica que están adquiriendo estas empresas de cara a la medicina del futuro, así como el interés de las grandes multinacionales del sector por controlarlas.</p>
+
+					<p>Hasta ahora, la mayor aplicación a la clínica de la secuenciación genética ha sido el diagnóstico de enfermedades vinculadas a la alteración de un solo gen (lo que no implica que pueda deberse a mutaciones diversas). Es el caso de las distrofias musculares, hemofilia o fibrosis quística, como apunta Estivill, que recuerda que existen alrededor de 7.000 patologías de este tipo, aunque solo en 3.000 de ellas se han identificado los genes que las causan.</p>
+
+					<p>También se están dando pasos en el tratamiento de estas enfermedades. Uno de los más recientes es una terapia personalizada que la agencia sanitaria estadounidense (FDA) aprobó el pasado 31 de enero. Se trata del medicamento Kalydeco, dirigido a pacientes de fibrosis quística con una mutación muy concreta (una alteración específica en el orden de las letras del ADN, denominada G551D). Estos enfermos son minoritarios dentro de la enfermedad, ya de por sí infrecuente, que provoca alteraciones en el transporte normal de sodio y cloruros, y se traduce en secreciones espesas y viscosas especialmente agresivas en los pulmones.</p>	
+
+					<p>Pero por encima de estos logros en las enfermedades monogénicas, el mayor impacto de los avances de los estudios del genoma se espera que tenga lugar en el campo de la investigación oncológica, donde existe una actividad frenética en la secuenciación de genomas tumorales.</p>
+
+					<p>El patrón básico de este trabajo consiste en “analizar el genoma de las células de un tumor y el de células normales del paciente, y comparar el espectro de mutaciones”. Este es el punto de partida para identificar los genes del cáncer y diseñar medicamentos que se dirijan directamente a esta diana: al origen del problema.</p>
+
+					<p>“Cualquier tratamiento de quimioterapia tiene un coste muy elevado, de esta forma, podríamos usar una medicación más directa y menos agresiva, así como controlar los efectos secundarios”, apunta Estivill.</p>
+
+					<p>No es fácil elaborar este registro de genes mutados. De entrada, porque su número es elevadísimo. Los tumores de mama, ovario, colorrectal y gliomas suelen mostrar entre 1.000 y 10.000 alteraciones genéticas. Las leucemias agudas, los testiculares y los meduloblastomas muestran un número inferior, mientras el cáncer de pulmón o los melanomas pueden superar los 100.000, como recoge un trabajo publicado en Science en marzo del año pasado sobre los avances en genética del cáncer.</p>
+
+					<p>Además, no todas estas alteraciones son relevantes. A medida que una persona crece, va acumulando cambios en su genoma, unas mutaciones que no tienen por qué ser cancerígenas. Además, entre las vinculadas a los tumores, existen diferentes grados de importancia. Hay cambios en los genes que provocan cáncer, los llamados conductores, y otros que no lo tienen, los pasajeros.</p>
+
+					<p>De ahí la complejidad y el volumen de la información a analizar. Para hacer todo este material manejable y coordinar los esfuerzos en 2008 se fundó el Consorcio Internacional para el Estudio del Genoma, en el que participan grupos de investigación de 11 países, entre los que se encuentra España. Entre todos ellos se han repartido la tarea de realizar el mapa genético de 500 pacientes por cada uno de los 50 tipos de cáncer más frecuentes.</p>
+
+					<p>El grupo español, integrado por el Hospital Clínic de Barcelona-Institut d’Investigacions Biomèdiques August Pi i Sunyer y la Universidad de Oviedo, se ocupa de la leucemia linfática crónica. En diciembre, los responsables del trabajo, los investigadores Elías Campo y Carlos López-Ortín comunicaron que habían estudiado ya más de 1.000 genes mutados de las células tumorales de 105 pacientes. Entre los hallazgos que permitirían abrir nuevas vías terapéuticas se encuentran las mutaciones recurrentes de un gen, el SF3B1.</p>
+
+					<p>El artículo publicado el año pasado en Science estimaba que el año 2020 podría ser la fecha en la que el análisis genético fuera ya una herramienta de diagnóstico rutinaria en oncología. El tiempo y los secuenciadores de última generación dirán si se han quedado cortos.</p>	
+
+					<article class="comentar">
+						<h1>Una carrera contra las enfermedades</h1>
+
+						<li>En 2003, el Proyecto Genoma Humano se gastó 2.700 millones de dólares (2.065 millones de euros) en dibujar el mapa genético humano. Costó 13 años de trabajo.</li>
+						<br>
+						<li>En 2007, Michael M. Rothberg secuenció el ADN de James Watson, codescubridor de la doble hélice. Su firma, 454 Life Sciences, se gastó un millón de dólares (761.000 euros).</li>
+						<br>
+						<li>En 2009, analizar el ADN de una persona costaba 100.000 dólares (76.100 euros); hoy, entre 3.000 y 5.000 (2.300 y 3.800 euros).</li>
+						<br>
+						<li>Life Technologies, la firma de Michael M. Rothberg, ha anunciado hace unas semanas un nuevo equipo que estará disponible a final de año que, con un coste de 149.000 dólares (113.000 euros), permitirá leer el ADN completo por 1.000 dólares (761 euros) y en un día.</li>
+						<br>
+						<li>Illumina, firma líder del sector, ha anunciado que este año sacará un equipo con las mismas prestaciones. La Farmacéutica Roche ha lanzado una OPA para adquirirla en una operación valorada en 5.700 millones de dólares (4.400 millones de euros).</li>
+
+				</article>
+
+				<article id="opiniones">
+					<?php
+						include 'comentarios.php';
+					?>
+				</article>
+			</section>
+
+			<section id="sec2">
+				<article id="relaciaonadas">
+					<hr class="lineasNoticiasRelacionadas">
+					<h4 class="nRelacionadas">NOTICIAS RELACIONADAS</h4>
+					<hr class="lineasNoticiasRelacionadas">
+					<br>
+
+					<h4 class="nRelacionadas2">En el Valle de Lecrín</h4>
+					<aside class="relacionadas2">
+						<ul>
+							<li><a href="../nacional/vida_artificial_esta_aqui.php">La vida artificial ya está aquí</a></li>
+							<li><a href="../nacional/secuenciacion_del_genoma_humano.php">El bajo coste llega a la secuenciación del genoma humano</a></li>
+						</ul>
+					</aside>
+
+					<h4 class="nRelacionadas2">En otros medios</h4>
+					<aside class="relacionadas2">
+						<ul>
+							<li><a href="http://www.lavanguardia.com/">lavanguardia.es</a></li>
+							<li><a href="http://www.abc.es/">abc.es</a></li>
+							<li><a href="http://www.rtve.es/">rtve.es</a></li>
+							<li><a href="http://www.elmundo.es/">elmundo.es</a></li>
+							<li><a href="http://www.20minutos.es/">20minutos.es</a></li>
+						</ul>
+					</aside>
+
+					<h4 class="nRelacionadas2">Y además</h4>
+					<aside class="relacionadas2">
+						<ul>
+							<li><a href="#">El fin de Windows XP aúpa las ventas de PC de sobremesa en Europa (Dealerworld.es)</a></li>
+							<li><a href="#">Los gastos no deducibles  (Captio)</a></li>
+							<li><a href="#">La censura planea sobre la regulación de Internet en México (El País)</a></li>
+							<li><a href="#">Aguirre: la ciudadanía "no quiere políticos prepotentes en coches… (Expansión)</a></li>
+						</ul>
+					</aside>
+
+
+				</article>
+				
+				<article id="publicitarios">
+					<a href="https://www.apple.com/es/"><img src="../img/HomerApple.jpg"></a>
+					<a href="https://www.nestle.es/kitkat/aspx/index.aspx"><img src="../img/kitkat.jpg"></a>
+					<a href="http://www.nike.com/es/es_es/"><img src="../img/nike.jpg" id="imgNike"></a>
+				</article>
+			</section>
+
+			<?php
+				include 'pie.php';
+			?>

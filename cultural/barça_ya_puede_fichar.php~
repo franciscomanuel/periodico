@@ -1,0 +1,139 @@
+	<?php
+		include 'cabecera.php';
+	?>
+			<section id="sec1">
+				<article id="destacadas">
+					<h6 class="tituloNoticia">FÚTBOL | BARCELONA »</h6>
+
+					<h1 class="titulosNoticias">La FIFA autoriza al Barça a fichar</h1>
+
+					<ul class="listasNoticias">
+						<li>La FIFA suspende cautelarmente la sanción por los fichajes de menores al considerar que "la complejidad de la materia" y la proximidad del inicio del periodo de inscripciones (1 de julio) impiden que su Comité tome una decisión sobre el recurso azulgrana a tiempo de que el club pueda ir al TAS</li>
+						<li>La FIFA echa al Barça del mercado</li>
+						<li>La FIFA veta a seis menores de La Masia</li>
+					</ul>	
+
+					<hr class="suspensivos">
+					<p class="autorNoticias">JORDI QUIXANO | Barcelona | 23 ABR 2014 - 12:34 CET</p>	
+					<hr class="suspensivos">
+
+					<br>
+
+					<img src="../img/presentacion_neymar.jpg" class="imagenesNoticias">
+					<footer>Bartomeu y Zubizarreta, en la presentación de Neymar.</footer>
+					<hr class="suspensivos">
+
+					<br>
+
+					<p>El Barcelona podrá llevar a cabo la profunda remodelación de la plantilla prevista con vistas a la próxima temporada, después de que la FIFA le haya concedido la suspensión cautelar de la sanción que le impuso el mes pasado por haber fichado jugadores menores de 16 y 18 años de forma irregular y vulnerar el artículo 19. Así se lo ha comunicado la mañana de este martes el máximo organismo internacional del fútbol a la entidad azulgrana. Según parece, la decisión ha sorprendido a los sectores más duros de la propia FIFA. Desde el Barcelona se ha recibido este primer fallo como una excelente noticia, aunque la estrategia a partir de este momento seguirá marcada por la discreción, a la espera de una resolución definitiva.</p>
+
+					<p>La FIFA ha informado hoy de la medida, tomada por el presidente de su Comisión de Apelación, Larry Mussenden, ante "la complejidad de la materia, la fecha de inicio del próximo periodo de inscripción -1 de julio de 2014- y el hecho de que la Comisión de Apelación no parece estar en posición de adoptar una decisión sobre el fondo de la cuestión en tiempo de garantizar que un eventual recurso del club ante el Tribunal de Arbitraje Deportivo (TAS) contra el fallo de esta Comisión pudiera ser decidido antes del inicio del próximo periodo de inscripción".</p>
+
+					<p>Las alegaciones del club han sido el elemento determinante que ha hecho posible este primer desenlace. El escrito se articuló a partir de tres puntos. En primer lugar, amparándose en la apariencia de buen derecho, un principio que argumenta que los motivos que defiende el Barça son razonables. Por otro lado, también se remarcó el principio denominado perículum in mora, que advierte de que una hipotética tardanza en la resolución podría tener consecuencias muy graves para el club. Y para finalizar, también se dejó bien claro que el Barça tendría mucho más que perder en caso de que no se le concediera la cautelar si se compara con lo que la FIFA ganaría si se la concedía.</p>
+
+					<article class="comentar">
+						<h4>El reglamento y las excepciones</h4>
+
+						<p>El artículo 19 del Reglamento sobre el Estatuto y la Transferencia de Jugadores dice: “Las transferencias internacionales de jugadores se permiten sólo cuando el jugador alcanza la edad de 18 años. Se permiten las siguientes tres excepciones”:</p>
+
+						<p>“Si los padres del jugador cambian su domicilio al país donde el nuevo club tiene su sede por razones no relacionadas con el fútbol”.</p>
+
+						<p>La transferencia se efectúa dentro del territorio de la Unión Europea (UE) o del Espacio Económico Europeo (EEE) y el jugador tiene entre 16 y 18 años de edad”.</p>
+
+						<p>El jugador vive en su hogar a una distancia menor de 50 km de la frontera nacional, y el club de la asociación vecina está también a una distancia menor de 50 km de la misma frontera en el país vecino. La distancia máxima entre el domicilio del jugador y el del club será de 100 km. En tal caso, el jugador deberá seguir viviendo en su hogar y las dos asociaciones en cuestión deberán otorgar su consentimiento”.</p>
+					</article>
+
+					<article class="comentar">
+						<h4>LA CRONOLOGÍA DEL CASO</h4>
+
+						<p><strong>5 de febrero de 2013.</strong> El Barça recibe la petición de la FIFA (vía RFEF) de información sobre la inscripción del jugador Lee Seung Woo. El club añade datos sobre otro jugador coreano (Jang Gyeolhee) que estaba en la misma situación.</p>
+
+						<p><strong>1 de marzo de 2013.</strong> El entonces presidente, Sandro Rosell, envía una carta al secretario general de la FIFA proponiendo modificaciones sustanciales en el Artículo 19 de ‘Protección de Menores’ con el objetivo de hacerlo “más eficaz”.</p>
+
+ 						<p><strong>6 de mayo de 2013.</strong> La FIFA reclama información sobre 16 jugadores más y sobre todos aquellos que no sean de nacionalidad española y no estén registrados en la RFEF o en la Federación Catalana (33 casos en total).</p>
+
+ 						<p><strong>25 de septiembre de 2013.</strong> La FIFA pide información a la RFEF sobre 18 de los 33 casos e indica que abre un expediente disciplinario que enviará a la Comisión de Disciplina.</p>
+
+ 						<p><strong>26 de noviembre de 2013.</strong> La FIFA pide información sobre cuatro jugadores más que considera que deberían haber sido incluidos en la comunicación de 6 de mayo.</p>
+
+						<p><strong>28 de noviembre de 2013.</strong> El Comité de Disciplina de la FIFA se reúne y sanciona al Barcelona. Circunstancia que no comunica al club hasta este miércoles 2 de abril (4 meses y 5 días después).</p>
+
+						<p><strong>9 de diciembre de 2013.</strong> Once días después de haber tomado la resolución, la FIFA confirma al club la recepción de la información solicitada. Adicionalmente, y a pesar de haber decidido la sanción, solicitan información de todos los jugadores menores de edad no nacionales inscritos en aquellas fechas o que hubieran sido inscritos desde el 16 de mayo de 2013.</p>
+
+						<p><strong>2 de abril de 2014.</strong> El club recibe la comunicación de la sanción de la Comisión de Disciplina de la FIFA. De un total de 37 jugadores investigados la FIFA considera incumplido el Reglamento sobre el Estatuto de Transferencia de Jugadores en nueve casos.</p>
+
+						<p><strong>23 de abril de 2014.</strong> La FIFA anuncia que aplica "efecto suspensivo" a su decisión y permitirá efectuar contrataciones al Barcelona por "la complejidad de la materia, la fecha de inicio del próximo periodo de inscripción el 1 de julio" y el hecho de que no pueda adoptar una decisión definitiva "en tiempo de garantizar un eventual recurso del club".</p>	
+					</article>
+					
+	
+
+				</article>
+
+				<article id="opiniones">
+					<hr class="lineasNoticiasRelacionadas">
+					<h4 class="nRelacionadas">COMENTAR</h4>
+					<hr class="lineasNoticiasRelacionadas">
+
+					<form>
+						<textarea id="textoArea" rows="4" cols="50" maxlength="4"></textarea>
+						<br>
+						<input type="submit" value="Comentar" />
+					</form>
+
+					<br>
+
+					<article class="comentar">
+						<p>No hay ningún comentario.</p>
+					</article>
+				</article>
+			</section>
+
+			<section id="sec2">
+				<article id="relaciaonadas">
+					<hr class="lineasNoticiasRelacionadas">
+					<h4 class="nRelacionadas">NOTICIAS RELACIONADAS</h4>
+					<hr class="lineasNoticiasRelacionadas">
+					<br>
+
+					<h4 class="nRelacionadas2">En el Valle de Lecrín</h4>
+						<aside class="relacionadas2">
+							<ul>
+								<li><a href="../cultural/un_barça_a_pedazos.php">Un Barça a pedazos</a></li>
+								<li><a href="../cultural/estamos_en_falso.php">“Estamos en falso”</a></li>
+								<li><a href="../cultural/bartomeu_enreda_con_zubi.php">Bartomeu se enreda con Zubizarreta</a></li>
+							</ul>
+						</aside>
+
+					<h4 class="nRelacionadas2">En otros medios</h4>
+						<aside class="relacionadas2">
+							<ul>
+								<li><a href="http://www.lavanguardia.com/">lavanguardia.es</a></li>
+								<li><a href="http://www.abc.es/">abc.es</a></li>
+								<li><a href="http://www.rtve.es/">rtve.es</a></li>
+								<li><a href="http://www.elmundo.es/">elmundo.es</a></li>
+								<li><a href="http://www.20minutos.es/">20minutos.es</a></li>
+							</ul>
+						</aside>
+
+					<h4 class="nRelacionadas2">Y además</h4>
+						<aside class="relacionadas2">
+							<ul>
+								<li><a href="#">El fin de Windows XP aúpa las ventas de PC de sobremesa en Europa (Dealerworld.es)</a></li>
+								<li><a href="#">Los gastos no deducibles  (Captio)</a></li>
+								<li><a href="#">La censura planea sobre la regulación de Internet en México (El País)</a></li>
+								<li><a href="#">Aguirre: la ciudadanía "no quiere políticos prepotentes en coches… (Expansión)</a></li>
+							</ul>
+						</aside>
+
+				</article>
+				
+				<article id="publicitarios">
+					<a href="https://www.apple.com/es/"><img src="../img/HomerApple.jpg"></a>
+					<a href="https://www.nestle.es/kitkat/aspx/index.aspx"><img src="../img/kitkat.jpg"></a>
+					<a href="http://www.nike.com/es/es_es/"><img src="../img/nike.jpg" id="imgNike"></a>
+				</article>
+			</section>
+
+			<?php
+				include '../pie.php';
+			?>

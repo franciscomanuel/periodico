@@ -1,0 +1,106 @@
+	<?php
+		include 'cabecera.php';
+	?>
+
+			<section id="sec1">
+				<article id="destacadas">
+					<h6 class="tituloNoticia">LIGA DE CAMPEONES | ATLÉTICO - BARCELONA »</h6>
+
+					<h1 class="titulosNoticias">Bartomeu se enreda con Zubizarreta</h1>
+
+					<ul class="listasNoticias">
+						<li>El presidente del Barça afirma que el director deportivo sí puso su cargo a disposición de la junta por la sanción de la FIFA después que el exportero lo negara reiteradamente</li>
+					</ul>	
+
+					<hr class="suspensivos">
+					<p class="autorNoticias">RAMON BESA | Barcelona | 7 ABR 2014 - 21:23 CET</p>	
+					<hr class="suspensivos">
+
+					<br>
+
+					<img src="../img/zubi_en_el_palco.jpg" class="imagenesNoticias">
+					<footer>Zubizarreta, en el palco durante un partido de Liga.</footer>
+					<hr class="suspensivos">
+
+					<br>
+
+					<p>Andoni Zubizarreta, director deportivo del Barcelona, mantenía una muy buena relación con el vicepresidente Josep Maria Bartomeu en tiempos de Sandro Rosell. Ambos se acostumbraron con el tiempo a la política presidencialista de Rosell, expresada en los fichajes de Neymar y también de Tata Martino, después de la recaída de Tito Vilanova. También se sabe que el expresidente quería reorganizar en verano el área deportiva y se planteaba no renovar el contrato de algún colaborador del departamento de fútbol profesional y también del formativo. Zubizarreta defendió a su equipo y consiguió que se mantuviera a los distintos miembros de la estructura después de plantear su dimisión si se producían cambios. La misma confianza se reiteró en los rectores del fútbol base encabezados por con Guillermo Amor y Albert Puig. La figura de Zubizarreta, sustituto de Txiki Begiristain y contratado por Rosell a petición de Pep Guardiola en 2010 —el presidente parecía más partidario de contratar a Pere Gratacós, Carles Rexach o incluso al propio Amor— ganó protagonismo con la llegada a la presidencia de Bartomeu. Los dos se conocían bien y compartían la condición de hombres de club. No se sabía de ningún desencuentro en sus trabajos por el Barcelona. Hasta que se produjo la sanción de la FIFA.</p>
+
+					<p>Catalunya Ràdio informó el viernes de que Zubizarreta había presentado el miércoles su dimisión a Bartomeu en la reunión de crisis celebrada en el Camp Nou. La información aseguraba que el director deportivo puso el cargo a disposición del presidente por si entendía que su salida podía aliviar o paliar los efectos del castigo de la FIFA. Zubizarreta, sin embargo, desmintió el mismo viernes la noticia y el sábado afirmó en Canal +: “No, en ningún momento [planteó la dimisión], porque en primer lugar mi cultura de trabajo me dice que hay que estar en los sitios en los momentos difíciles y pelear hasta el último momento, y segundo porque me siento reforzado, respaldado por la junta y el presidente”. Y a Barça TV reiteró: “Ni dimisión ni nada que se le parezca”.</p>
+
+					<p>Las palabras del director deportivo ratificaron los mensajes enviados el día anterior por portavoces autorizados del club. La noche del domingo, sin embargo, el propio Bartomeu, en una entrevista concedida a Catalunya Ràdio y en presencia de Jordi Borda —el mismo periodista que había dado la exclusiva— confirmó la información: “Zubizarreta es un hombre de club que está haciendo un trabajo inteligente, racional, siempre en busca de las mejores decisiones. El miércoles, en una reunión de cuatro horas convocada para revisar qué había sucedido y las actuaciones que se imponían, dice [Zubizarreta] que si saliendo del club solucionaba el problema institucional, se iba y entonces yo dije que no, que no debía salir, porque no arreglaba nada ni tenía ninguna responsabilidad en el tema de la FIFA. Él no llevaba el fútbol formativo cuando se produjo el problema; lo lleva hace un año. Lo que dijo lo dijo en el buen sentido, para ayudar al club”.</p>
+
+					<p>El relato es diferente según la fuente y el club no ha ofrecido una única explicación. Las versiones son ambiguas. Uno de los presentes en la reunión consultado por este diario afirma que después de leerse el informe de lo sucedido con la FIFA, Zubizarreta se dirigió al presidente azulgrana en unos términos parecidos a estos: “Si esto que se está diciendo es cierto, me tienes que echar”. No se ha precisado aún quién hizo el informe. El club se centra ahora en investigar los errores para delimitar responsabilidades.</p>
+
+					<p>El portavoz de la junta, Manuel Arroyo, compareció ayer para reiterar: “Zubizarreta tiene el apoyo absoluto de la junta y del presidente. Lo reafirmamos y zanjamos el tema”. Arroyo confirmó que el club, coordinado con la Federación Española, presentará antes del viernes el recurso al comité de apelación de la FIFA: “Al tratarse de una sanción de máximos, pediremos su suspensión cautelar. Esperamos poder fichar”.</p>
+
+				</article>
+
+				<article id="opiniones">
+					<hr class="lineasNoticiasRelacionadas">
+					<h4 class="nRelacionadas">COMENTAR</h4>
+					<hr class="lineasNoticiasRelacionadas">
+
+					<form>
+						<textarea id="textoArea" rows="4" cols="50" maxlength="4"></textarea>
+						<br>
+						<input type="submit" value="Comentar" />
+					</form>
+
+					<br>
+
+					<article class="comentar">
+						<p>No hay ningún comentario.</p>
+					</article>
+				</article>
+			</section>
+
+			<section id="sec2">
+				<article id="relaciaonadas">
+					<hr class="lineasNoticiasRelacionadas">
+					<h4 class="nRelacionadas">NOTICIAS RELACIONADAS</h4>
+					<hr class="lineasNoticiasRelacionadas">
+					<br>
+
+					<h4 class="nRelacionadas2">En el Valle de Lecrín</h4>
+					<aside class="relacionadas2">
+						<ul>
+							<li><a href="../deportes/un_barça_a_pedazos.php">Un Barça a pedazos</a></li>
+							<li><a href="../deportes/estamos_en_falso.php">“Estamos en falso”</a></li>
+						</ul>
+					</aside>
+
+					<h4 class="nRelacionadas2">En otros medios</h4>
+					<aside class="relacionadas2">
+						<ul>
+							<li><a href="http://www.lavanguardia.com/">lavanguardia.es</a></li>
+							<li><a href="http://www.abc.es/">abc.es</a></li>
+							<li><a href="http://www.rtve.es/">rtve.es</a></li>
+							<li><a href="http://www.elmundo.es/">elmundo.es</a></li>
+							<li><a href="http://www.20minutos.es/">20minutos.es</a></li>
+						</ul>
+					</aside>
+
+					<h4 class="nRelacionadas2">Y además</h4>
+					<aside class="relacionadas2">
+						<ul>
+							<li><a href="#">El fin de Windows XP aúpa las ventas de PC de sobremesa en Europa (Dealerworld.es)</a></li>
+							<li><a href="#">Los gastos no deducibles  (Captio)</a></li>
+							<li><a href="#">La censura planea sobre la regulación de Internet en México (El País)</a></li>
+							<li><a href="#">Aguirre: la ciudadanía "no quiere políticos prepotentes en coches… (Expansión)</a></li>
+						</ul>
+					</aside>
+
+
+				</article>
+				
+				<article id="publicitarios">
+					<a href="https://www.apple.com/es/"><img src="../img/HomerApple.jpg"></a>
+					<a href="https://www.nestle.es/kitkat/aspx/index.aspx"><img src="../img/kitkat.jpg"></a>
+					<a href="http://www.nike.com/es/es_es/"><img src="../img/nike.jpg" id="imgNike"></a>
+				</article>
+			</section>
+
+			<?php
+				include 'pie.php';
+			?>
