@@ -1,7 +1,7 @@
 <?php
-	define("DB_DSN", "mysql:host=localhost;dbname=15517788");
-	define("DB_USUARIO", "15517788");
-	define("DB_CONTRASENIA", "15517788x");
+	define("DB_DSN", "mysql:host=localhost;dbname=miDBM");
+	define("DB_USUARIO", "miUsuario");
+	define("DB_CONTRASENIA", "miClave");
 
 	try{
 		$conex = new PDO(DB_DSN, DB_USUARIO, DB_CONTRASENIA);
